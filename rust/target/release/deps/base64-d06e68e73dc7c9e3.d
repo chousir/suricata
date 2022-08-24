@@ -1,0 +1,14 @@
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/base64-d06e68e73dc7c9e3.rmeta: /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/chunked_encoder.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/display.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/tables.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/write/mod.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/write/encoder.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/encode.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/decode.rs
+
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/libbase64-d06e68e73dc7c9e3.rlib: /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/chunked_encoder.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/display.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/tables.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/write/mod.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/write/encoder.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/encode.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/decode.rs
+
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/base64-d06e68e73dc7c9e3.d: /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/chunked_encoder.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/display.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/tables.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/write/mod.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/write/encoder.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/encode.rs /home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/decode.rs
+
+/home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/lib.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/chunked_encoder.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/display.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/tables.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/write/mod.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/write/encoder.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/encode.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/base64/src/decode.rs:

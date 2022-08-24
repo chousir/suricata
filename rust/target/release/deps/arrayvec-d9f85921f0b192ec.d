@@ -1,0 +1,13 @@
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/arrayvec-d9f85921f0b192ec.rmeta: /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/maybe_uninit_stable.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/array.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/array_string.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/char.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/range.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/errors.rs
+
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/libarrayvec-d9f85921f0b192ec.rlib: /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/maybe_uninit_stable.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/array.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/array_string.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/char.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/range.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/errors.rs
+
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/arrayvec-d9f85921f0b192ec.d: /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/maybe_uninit_stable.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/array.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/array_string.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/char.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/range.rs /home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/errors.rs
+
+/home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/lib.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/maybe_uninit_stable.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/array.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/array_string.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/char.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/range.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/arrayvec/src/errors.rs:

@@ -1,0 +1,14 @@
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/uuid-bc2c6e95f2424092.rmeta: /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/builder/mod.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/builder/error.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/error.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/parser/mod.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/parser/error.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/prelude.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/adapter/mod.rs
+
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/libuuid-bc2c6e95f2424092.rlib: /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/builder/mod.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/builder/error.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/error.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/parser/mod.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/parser/error.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/prelude.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/adapter/mod.rs
+
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/uuid-bc2c6e95f2424092.d: /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/builder/mod.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/builder/error.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/error.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/parser/mod.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/parser/error.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/prelude.rs /home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/adapter/mod.rs
+
+/home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/lib.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/builder/mod.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/builder/error.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/error.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/parser/mod.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/parser/error.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/prelude.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/uuid/src/adapter/mod.rs:

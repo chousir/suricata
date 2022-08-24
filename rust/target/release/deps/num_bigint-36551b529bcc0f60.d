@@ -1,0 +1,12 @@
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/num_bigint-36551b529bcc0f60.rmeta: /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/macros.rs /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/bigint.rs /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/biguint.rs /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/algorithms.rs /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/monty.rs
+
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/libnum_bigint-36551b529bcc0f60.rlib: /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/macros.rs /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/bigint.rs /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/biguint.rs /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/algorithms.rs /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/monty.rs
+
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/num_bigint-36551b529bcc0f60.d: /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/macros.rs /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/bigint.rs /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/biguint.rs /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/algorithms.rs /home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/monty.rs
+
+/home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/lib.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/macros.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/bigint.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/biguint.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/algorithms.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/num-bigint-0.2.6/src/monty.rs:

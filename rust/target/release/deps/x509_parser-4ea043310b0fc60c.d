@@ -1,0 +1,13 @@
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/x509_parser-4ea043310b0fc60c.rmeta: /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/x509.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/error.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/objects.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/x509_parser.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/x509_extensions.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/pem.rs
+
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/libx509_parser-4ea043310b0fc60c.rlib: /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/x509.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/error.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/objects.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/x509_parser.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/x509_extensions.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/pem.rs
+
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/x509_parser-4ea043310b0fc60c.d: /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/x509.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/error.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/objects.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/x509_parser.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/x509_extensions.rs /home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/pem.rs
+
+/home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/lib.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/x509.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/error.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/objects.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/x509_parser.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/x509_extensions.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/x509-parser/src/pem.rs:

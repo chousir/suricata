@@ -1,0 +1,16 @@
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/crc-772c4508993363f3.rmeta: /home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/crc16.rs /home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/crc32.rs /home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/crc64.rs /home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/util.rs /home/user/Documents/vscode_project/suricata/rust/target/release/build/crc-091ea5a45300dd49/out/crc16_constants.rs /home/user/Documents/vscode_project/suricata/rust/target/release/build/crc-091ea5a45300dd49/out/crc32_constants.rs /home/user/Documents/vscode_project/suricata/rust/target/release/build/crc-091ea5a45300dd49/out/crc64_constants.rs
+
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/libcrc-772c4508993363f3.rlib: /home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/crc16.rs /home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/crc32.rs /home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/crc64.rs /home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/util.rs /home/user/Documents/vscode_project/suricata/rust/target/release/build/crc-091ea5a45300dd49/out/crc16_constants.rs /home/user/Documents/vscode_project/suricata/rust/target/release/build/crc-091ea5a45300dd49/out/crc32_constants.rs /home/user/Documents/vscode_project/suricata/rust/target/release/build/crc-091ea5a45300dd49/out/crc64_constants.rs
+
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/crc-772c4508993363f3.d: /home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/crc16.rs /home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/crc32.rs /home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/crc64.rs /home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/util.rs /home/user/Documents/vscode_project/suricata/rust/target/release/build/crc-091ea5a45300dd49/out/crc16_constants.rs /home/user/Documents/vscode_project/suricata/rust/target/release/build/crc-091ea5a45300dd49/out/crc32_constants.rs /home/user/Documents/vscode_project/suricata/rust/target/release/build/crc-091ea5a45300dd49/out/crc64_constants.rs
+
+/home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/lib.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/crc16.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/crc32.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/crc64.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/crc/src/util.rs:
+/home/user/Documents/vscode_project/suricata/rust/target/release/build/crc-091ea5a45300dd49/out/crc16_constants.rs:
+/home/user/Documents/vscode_project/suricata/rust/target/release/build/crc-091ea5a45300dd49/out/crc32_constants.rs:
+/home/user/Documents/vscode_project/suricata/rust/target/release/build/crc-091ea5a45300dd49/out/crc64_constants.rs:
+
+# env-dep:OUT_DIR=/home/user/Documents/vscode_project/suricata/rust/target/release/build/crc-091ea5a45300dd49/out

@@ -1,0 +1,13 @@
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/widestring-056df1c11949f3de.rmeta: /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/platform/mod.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/platform/other.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/ucstr.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/ucstring.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/ustr.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/ustring.rs
+
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/libwidestring-056df1c11949f3de.rlib: /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/platform/mod.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/platform/other.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/ucstr.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/ucstring.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/ustr.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/ustring.rs
+
+/home/user/Documents/vscode_project/suricata/rust/target/release/deps/widestring-056df1c11949f3de.d: /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/lib.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/platform/mod.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/platform/other.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/ucstr.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/ucstring.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/ustr.rs /home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/ustring.rs
+
+/home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/lib.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/platform/mod.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/platform/other.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/ucstr.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/ucstring.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/ustr.rs:
+/home/user/Documents/vscode_project/suricata/rust/vendor/widestring/src/ustring.rs:
